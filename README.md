@@ -10,3 +10,6 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 
 ## Our journey (videos in Russian)
 
+
+
+## Santa's nice list
