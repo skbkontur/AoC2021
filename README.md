@@ -15,4 +15,5 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 ## Santa's nice list
 
 - [Aminopyridin](https://github.com/Aminopyridin/AoC2021) [C#]
+- [nulladdict](https://github.com/nulladdict/aoc-2021) [Rust]
 - [mazharenko](https://github.com/mazharenko/AoC-2021) [F#]
