@@ -8,7 +8,7 @@ var depths = File.ReadAllLines("input.txt").Select(int.Parse).ToList();
 var answer1 = depths.Skip(1).Where((depth, i) => depth > depths[i]).Count();
 
 var answer2 = depths.Skip(3).Where((depth, i) => 
-    depth + depths[i + 2] + depths[i + 1] > depths[i] + depths[i + 2] + depths[i + 1]
+    depth > depths[i]
 ).Count();
 
 Console.WriteLine($"First puzzle answer: {answer1}, second puzzle answer: {answer2}");
