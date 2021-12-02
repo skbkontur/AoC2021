@@ -10,6 +10,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 
 ## Our journey (videos in Russian)
 
+1. [Day 1](https://youtu.be/6i7jm8W0Aic), C#
 
 
 ## Santa's nice list
