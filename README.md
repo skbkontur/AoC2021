@@ -18,3 +18,4 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 - [nulladdict](https://github.com/nulladdict/aoc-2021) [Rust]
 - [mazharenko](https://github.com/mazharenko/AoC-2021) [F#]
 - [reacheight](https://github.com/reacheight/AdventOfCode) [Scala]
+- [Решения на Python и обзоры reddit-а от xoposhiy](https://github.com/xoposhiy/aoc/) [Python]
