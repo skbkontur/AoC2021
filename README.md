@@ -22,3 +22,4 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 - [reacheight](https://github.com/reacheight/AdventOfCode) [Scala]
 - [Решения на Python и обзоры reddit-а от xoposhiy](https://github.com/xoposhiy/aoc/) [Python]
 - [BurningMarshmallow](https://github.com/BurningMarshmallow/aoc-2021) [Kotlin]
+- [yalexaner](https://github.com/yalexaner/advent-of-code-2021-go) [Go]
