@@ -26,3 +26,4 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 - [AxelUser](https://github.com/AxelUser/aoc-2021) [Kotlin]
 - [nanot1m](https://github.com/nanot1m/adventofcode2021) [JS]
 - [RazDva](https://github.com/Razdva122/Advent-of-code-2021) [TS]
+- [ulysses4ever](https://github.com/ulysses4ever/adventofcode) [Haskell]
