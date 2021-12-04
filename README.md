@@ -13,6 +13,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 1. [Day 1](https://youtu.be/6i7jm8W0Aic), C#
 2. [Day 2](https://youtu.be/IeTh8WQ5qYU), Python
 3. [Day 3](https://youtu.be/9iRd2tGbOcE), JS
+4. [Day 4](https://youtu.be/JcVwLp9Nv4k), 1С
 
 ## Santa's nice list
 
