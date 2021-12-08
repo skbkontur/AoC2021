@@ -17,6 +17,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 5. [Day 5](https://youtu.be/wBaR6XcoYWM), Rust
 6. [Day 6](https://youtu.be/XNAkYQjttYM), Java
 7. [Day 7](https://youtu.be/6zKZ_L5ynzk), Python + numpy
+8. [Day 8](https://youtu.be/TzCuFI1jZrA), JS + Copilot
 
 ## Santa's nice list
 
