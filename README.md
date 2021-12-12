@@ -20,6 +20,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 8. [Day 8](https://youtu.be/TzCuFI1jZrA), JS + Copilot
 9. [Day 9](https://youtu.be/SI4iFdw1W3g), Go
 10. [Day 10](https://youtu.be/fW_EgB-DDFM), Logica + Python
+11. [Day 11](https://youtu.be/GrUkAVovk4U), Clojure
 
 ## Santa's nice list
 
