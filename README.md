@@ -22,6 +22,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 10. [Day 10](https://youtu.be/fW_EgB-DDFM), Logica + Python
 11. [Day 11](https://youtu.be/GrUkAVovk4U), Clojure
 12. [Day 12](https://youtu.be/NUovaPGYaHg), C++
+13. [Day 13](https://youtu.be/OTFNP00g0P8), Scala
 
 ## Santa's nice list
 
