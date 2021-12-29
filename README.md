@@ -23,6 +23,9 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 11. [Day 11](https://youtu.be/GrUkAVovk4U), Clojure
 12. [Day 12](https://youtu.be/NUovaPGYaHg), C++
 13. [Day 13](https://youtu.be/OTFNP00g0P8), Scala
+14. [Day 14](https://youtu.be/zXHRUMMktlY), Kotlin
+15. [Day 15](https://youtu.be/7PIasj25RvQ), Python
+24. [Day 24](https://youtu.be/pAjukgxss_w), C#
 
 ## Santa's nice list
 
